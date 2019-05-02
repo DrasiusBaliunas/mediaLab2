@@ -24,4 +24,6 @@ There are many open source alternatives to build virtual reality application. On
   - HFS: http://www.rejetto.com/hfs/ or any other server.
   
 # Done
-  - Nothing yet
+  - Paliktas sculpt.ply
+  - Idetas kubas
+  - Pakeistas fonas is paveikslelio i 4CC3D9
